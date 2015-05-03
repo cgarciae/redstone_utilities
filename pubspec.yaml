@@ -1,5 +1,8 @@
 name: aristadart
-description: A sample web application
+version: 0.0.1
+author: Cristian Garcia <cgarcia.e88@gmail.com>
+description: Utility classes and functions to speed development
+homepage: https://github.com/redstone-dart/redstone-mvc-plugin
 dependencies:
   mongo_dart: any
   redstone: any
