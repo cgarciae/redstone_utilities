@@ -1,0 +1,8 @@
+name: aristadart
+description: A sample web application
+dependencies:
+  mongo_dart: any
+  redstone: any
+  redstone_mapper: any
+  redstone_mapper_mongo: any
+  mongo_dart: any
