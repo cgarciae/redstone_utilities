@@ -1,5 +1,5 @@
 name: redstone_utilities
-version: 0.0.1
+version: 0.0.11
 author: Cristian Garcia <cgarcia.e88@gmail.com>
 description: Utility classes and functions to speed development
 homepage: https://github.com/redstone-dart/redstone_utilities
